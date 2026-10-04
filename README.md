@@ -1,16 +1,31 @@
-# saydalety
+# Tabibi - Medical Center Management System
 
-A new Flutter project.
+> A complete Flutter application to manage a multi-specialty medical center workflow.
 
-## Getting Started
+**Live Demo:** [github.com/Lamiaa2026/Clinic_management](https://github.com/Lamiaa2026/Clinic_management)
 
-This project is a starting point for a Flutter application.
+### 🔍 Overview
+This project solves the problem of managing a medical center that includes multiple doctors with different specialties. Instead of paper files, the system provides a centralized app to handle doctors, patient records, and appointments in one place.
 
-A few resources to get you started if this is your first Flutter project:
+### ✨ Key Features
+**1. Doctors & Specialties Module**
+- Add / Edit / Delete doctors
+- Assign specialty (Cardiology, Dermatology, Dentistry, Orthopedics...)
+- Set working hours and consultation price
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**2. Patient Management**
+- Create a full patient file (Name, Phone, Age, History)
+- View all previous visits for each patient
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**3. Smart Booking System**
+- Book an appointment with a specific doctor
+- Prevent double-booking by checking doctor availability
+- Manage booking status (Upcoming, Completed, Canceled)
+
+### 🛠️ Tech Stack
+- **Framework:** Flutter 3.x, Dart
+- **State Management:** Provider
+- **Architecture:** Feature-based Clean Structure (core / features / models / providers)
+- **Tools:** Git, GitHub, VS Code
+
+### 📁 Project Structure
