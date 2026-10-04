@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325994978505",
+    "project_id": "saydaletak-ff971",
+    "storage_bucket": "saydaletak-ff971.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325994978505:android:f3032fa111556e4ea70118",
+        "android_client_info": {
+          "package_name": "com.example.saydalety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQL9RDBiL38361E_Ul6pzRrdm2XzaZNDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
